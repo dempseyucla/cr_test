@@ -4,7 +4,7 @@ int one();
 
 int main() {
 
-puts("hello");
+puts("hello updated on github.com");
 one();
 
 }
