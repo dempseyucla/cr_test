@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]) {
+int one();
+
+int main() {
 
 puts("hello");
+one();
 
 }
