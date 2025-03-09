@@ -4,7 +4,7 @@ int one();
 
 int main() {
 
-puts("hello updated on github.com");
+puts("hello updated on github.com and then updated on repoleaf");
 one();
 
 }
